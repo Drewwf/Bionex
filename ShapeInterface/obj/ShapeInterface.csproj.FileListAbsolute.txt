@@ -1,0 +1,5 @@
+C:\Users\Drew Fitting\Documents\Visual Studio 2005\Projects\ShapeInterface\ShapeInterface\bin\Debug\ShapeInterface.dll
+C:\Users\Drew Fitting\Documents\Visual Studio 2005\Projects\ShapeInterface\ShapeInterface\bin\Debug\ShapeInterface.pdb
+C:\Users\Drew Fitting\Documents\Visual Studio 2005\Projects\ShapeInterface\ShapeInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew Fitting\Documents\Visual Studio 2005\Projects\ShapeInterface\ShapeInterface\obj\Debug\ShapeInterface.dll
+C:\Users\Drew Fitting\Documents\Visual Studio 2005\Projects\ShapeInterface\ShapeInterface\obj\Debug\ShapeInterface.pdb
